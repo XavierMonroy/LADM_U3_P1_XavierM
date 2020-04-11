@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LADM_U3_P1_XavierM</string>
+
+    <string-array name="seleccion">
+        <item>Mostrar todas</item>
+        <item>ID</item>
+        <item>Descripción</item>
+        <item>Fecha de captura</item>
+        <item>Fecha de entrega</item>
+    </string-array>
+</resources>
